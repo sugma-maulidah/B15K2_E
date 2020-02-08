@@ -10,6 +10,11 @@
 -> Setelah dilakukan "run and compile", user diharuskan untuk menginputkan kata atau kalimat yang akan diperiksa jumlah huruf vokalnya
 -> Kemudian outputnya berupa jumlah huruf vokal yang terdapat pada kata atau kalimat yang telah diinputkan 
 
+#Untuk jawaban soal nomor 4
+-> Source code tersebut dapat dijalankan pada online editor maupun dengan menggunakan software Dev-C++ 
+-> Setelah dilakukan "run and compile", user diharuskan untuk menginputkan kalimat/kata,huruf yang akan diganti, dan huruf pengganti
+-> Kemudian outputnya berupa kalimat/kata yang telah mengalami perubahan
+
 #Untuk jawaban soal nomor 5
 -> Source code tersebut dapat dijalankan pada online editor maupun dengan menggunakan software Dev-C++ 
 -> Setelah dilakukan "run and compile", user diharuskan untuk menginputkan jumlah baris dan jumlah kolom
