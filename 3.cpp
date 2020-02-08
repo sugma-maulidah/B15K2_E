@@ -23,8 +23,7 @@ int main()
 {
  char strs[100];
  int i, jum, l;
- std::cout<<"Please Enter Any phrase : ";
+ std::cout<<"Masukkan kata/kalimat : ";
  gets(strs);
- 
-	std::cout<<"number of vowels : "<<strings(strs);
+ std::cout<<"Jumlah huruf vokal : "<<strings(strs);
 }
