@@ -10,3 +10,7 @@
 -> Setelah dilakukan "run and compile", user diharuskan untuk menginputkan kata atau kalimat yang akan diperiksa jumlah huruf vokalnya
 -> Kemudian outputnya berupa jumlah huruf vokal yang terdapat pada kata atau kalimat yang telah diinputkan 
 
+#Untuk jawaban soal nomor 5
+-> Source code tersebut membutuhkan software Dev-C++ untuk menjalankannya
+-> Setelah dilakukan "run and compile", user diharuskan untuk menginputkan jumlah baris dan jumlah kolom
+-> Kemudian outputnya berupa deret fibonacci sesuai dengan jumlah baris dan kolom yang telah diinputkan
